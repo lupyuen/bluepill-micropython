@@ -9,7 +9,7 @@ Then clone this `bluepill-micropython` repo at into the `lib` folder of `send_al
 
 Ported code is located in `ports/bluepill`.  Derived from `ports/minimal`.
 
-To see the Blue Pill ROM memory usage:
+To see the Blue Pill flash memory usage (Blue Pill has 64 KB of flash memory):
 
 https://docs.google.com/spreadsheets/d/1g_6hTMSofzywcjiIgl0YKy3Qodn9TXdNRaKW-Qyn5s0/edit#gid=381366828
 
