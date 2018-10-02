@@ -5,7 +5,7 @@ STM32 Blue Pill port of MicroPython
 
 https://github.com/lupyuen/send_altitude_cocoos/tree/micropython
 
-Then clone this `bluepill-micropython` repo at into the `lib` folder of `send_altitude_cocoos`.
+Then clone this `bluepill-micropython` repo at into the `lib` folder of `send_altitude_cocoos`. Flash the Blue Pill and run the program according to https://medium.com/coinmonks/connect-stm32-blue-pill-to-sigfox-28c6f91bddc1
 
 Ported code is located in `ports/bluepill`.  Derived from `ports/minimal`.
 
