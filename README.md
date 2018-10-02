@@ -1,4 +1,11 @@
-[![Build Status](https://travis-ci.org/micropython/micropython.png?branch=master)](https://travis-ci.org/micropython/micropython) [![Coverage Status](https://coveralls.io/repos/micropython/micropython/badge.png?branch=master)](https://coveralls.io/r/micropython/micropython?branch=master)
+STM32 Blue Pill port of MicroPython
+===================================
+
+(Work in progress) Clone the `send_altitude_cocoos` repo, `micropython` branch:
+
+https://github.com/lupyuen/send_altitude_cocoos/tree/micropython
+
+Then clone this `bluepill-micropython` repo at into the `lib` folder of `send_altitude_cocoos`.
 
 The MicroPython project
 =======================
