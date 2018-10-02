@@ -7,6 +7,14 @@ https://github.com/lupyuen/send_altitude_cocoos/tree/micropython
 
 Then clone this `bluepill-micropython` repo at into the `lib` folder of `send_altitude_cocoos`.
 
+Ported code is located in `ports/bluepill`.  Derived from `ports/minimal`.
+
+To see the Blue Pill ROM memory usage:
+
+https://docs.google.com/spreadsheets/d/1g_6hTMSofzywcjiIgl0YKy3Qodn9TXdNRaKW-Qyn5s0/edit#gid=381366828
+
+Select the `Symbols` sheet, click `Data --> Filter Views --> Functions And Data By Size`
+
 The MicroPython project
 =======================
 <p align="center">
