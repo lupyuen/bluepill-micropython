@@ -15,6 +15,10 @@ https://docs.google.com/spreadsheets/d/1g_6hTMSofzywcjiIgl0YKy3Qodn9TXdNRaKW-Qyn
 
 Select the `Symbols` sheet, click `Data --> Filter Views --> Functions And Data By Size`
 
+So far it runs this precompiled script succesfully:
+
+https://github.com/lupyuen/bluepill-micropython/blob/master/ports/bluepill/frozentest.py
+
 The MicroPython project
 =======================
 <p align="center">
